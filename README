@@ -1,0 +1,5 @@
+Clojure configuration for Emacs
+-------------------------------
+* Clone this repository
+* $ rename user $USER emacs-clojure/user*
+* $ mv emacs-clojure ~/.emacs.d
